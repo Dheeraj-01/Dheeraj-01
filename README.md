@@ -2,7 +2,7 @@
 <img align='right' src='https://github.com/Dheeraj-01/Dheeraj-01/blob/main/techstack.gif' width='200"'>
 
 [![GitHub followers](https://img.shields.io/github/followers/Dheeraj-01?label=Follow&style=social)](https://github.com/Dheeraj-01/?tab=followers)
-[![Mail Badge](https://img.shields.io/badge/-dheerajbhagchandani55@gmail.com-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:dheerajbhagchandani55@gmail.com)](mailto:dheerajbhagchandani55@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-dheerajbhagchandani-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:dheerajbhagchandani55@gmail.com)](mailto:dheerajbhagchandani55@gmail.com)
 
 I'm  Dheeraj Bhagchandani 😃. I have around 9 months of experience in the Software Engineer Domain. 
 

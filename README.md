@@ -1,16 +1,31 @@
-### Hi there 👋
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, everyone! <img src="https://github.com/Dheeraj-01/Dheeraj-01/blob/main/Hi.gif" width="30px"></h2>
+<img align='right' src='https://github.com/Dheeraj-01/Dheeraj-01/blob/main/techstack.gif' width='200"'>
 
-<!--
-**Dheeraj-01/Dheeraj-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/Dheeraj-01?label=Follow&style=social)](https://github.com/Dheeraj-01/?tab=followers)
+[![Mail Badge](https://img.shields.io/badge/-dheerajbhagchandani55@gmail.com-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:dheerajbhagchandani55@gmail.com)](mailto:dheerajbhagchandani55@gmail.com)
 
-Here are some ideas to get you started:
+I'm  Dheeraj Bhagchandani 😃. I have around 9 months of experience in the Software Engineer Domain. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently interning as a SWE in Groww, India. I also work as a Problem Setter/Tester at Relevel. 
+
+I also have a strong grasp of Data Structures and Algorithms and I am a Expert (1739) on CodeForces and 5* (2157) on CodeChef. 
+
+I am also a 2x ICPC Regionalist and ranked 46 in Gwalior-Pune Regionals.
+
+## My Experiences - 
+- Software Engineer Intern at Groww
+- Problem Setter/Tester at Relevel
+- Full Stack Developer Intern at Daffodil Health
+
+
+### 🧐 About Me:
+- 📫 &nbsp; Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/dheerajbhagchandani/)
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1dIKXQlRnztfcFh-yS0-VYlqFYeyAIJuz/view)
+
+## My Profiles
+- [CodeForces](https://codeforces.com/profile/spiralJava_)
+- [CodeChef](https://www.codechef.com/users/spiraljava)
+- [LeetCode](https://leetcode.com/spiraljava/)
+- [AtCoder](https://atcoder.jp/users/Spiraljava)
+
+<img alt="Dheeraj github stats" src="https://github-readme-stats.vercel.app/api?username=Dheeraj-01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >

@@ -29,3 +29,4 @@ I am also a 2x ICPC Regionalist and ranked 46 in Gwalior-Pune Regionals.
 - [AtCoder](https://atcoder.jp/users/Spiraljava)
 
 <img alt="Dheeraj github stats" src="https://github-readme-stats.vercel.app/api?username=Dheeraj-01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dheeraj-01&" alt="Dheeraj-01" />

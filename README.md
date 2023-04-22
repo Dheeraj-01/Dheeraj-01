@@ -20,7 +20,7 @@ I am also a 2x ICPC Regionalist and ranked 46 in Gwalior-Pune Regionals.
 
 ### 🧐 About Me:
 - 📫 &nbsp; Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/dheerajbhagchandani/)
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1dIKXQlRnztfcFh-yS0-VYlqFYeyAIJuz/view)
+- 📝 &nbsp; Checkout my [Portfolio](https://dheeraj-bhagchandani.netlify.app/)
 
 ## My Profiles
 - [CodeForces](https://codeforces.com/profile/spiralJava_)

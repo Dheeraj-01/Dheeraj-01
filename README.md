@@ -10,7 +10,7 @@ I'm currently interning as a SWE in Groww, India. I also work as a Problem Sette
 
 I also have a strong grasp of Data Structures and Algorithms and I am a Expert (1739) on CodeForces and 5* (2157) on CodeChef. 
 
-I am also a 2x ICPC Regionalist and ranked 46 in Gwalior-Pune Regionals.
+I am also a 3x ICPC Regionalist and ranked 46 in Gwalior-Pune Regionals.
 
 ## My Experiences - 
 - Software Engineer Intern at Groww
